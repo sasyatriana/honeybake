@@ -13,5 +13,8 @@ MENU KUE MANIS
 MENU ROTI KERING
 1. Croissant Mentega	Rp. 13.000
 2. Danish Keju		Rp. 8.000
+3. Danish Blueberry	Rp. 9.000
+4. Puff Pastry Sosis	Rp. 7.000
+5. Roti Abon Gulung	Rp. 8.500
 
 
