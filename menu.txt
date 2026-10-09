@@ -9,6 +9,9 @@ MENU KUE MANIS
 3. Brownies Kukus	Rp. 13.000
 4. Brownies Panggang	Rp. 8.000
 5. Bolu Pandan		Rp. 9.000
+6. Bolu Tape		Rp. 7.500
+7. Bolu Marmer		Rp. 8.500
+8. Kue Lapis Legit	Rp. 10.000
 
 MENU ROTI KERING
 1. Croissant Mentega	Rp. 13.000
