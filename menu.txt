@@ -33,3 +33,8 @@ MENU KUE BASAH
 7. Klepon Ubi		Rp. 3.000
 8. Kue Lumpur		Rp. 4.000
 9. Putri Noong		Rp. 3.000
+10. Surandil Keju	Rp. 3.000
+11. Pie Buah		Rp. 8.000
+12. Nastar Daun		Rp. 9.000
+13. Pia Kacang Ijo	Rp. 6.000
+14. Pastel		Rp. 5.000
