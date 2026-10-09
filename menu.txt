@@ -19,5 +19,7 @@ MENU ROTI KERING
 3. Danish Blueberry	Rp. 9.000
 4. Puff Pastry Sosis	Rp. 7.000
 5. Roti Abon Gulung	Rp. 8.500
-
+6. Roti Sobek		Rp. 10.000
+7. Donat Gula		Rp. 11.000
+8. Donat Coklat		Rp. 10.500
 
