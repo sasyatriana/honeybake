@@ -38,3 +38,9 @@ MENU KUE BASAH
 12. Nastar Daun		Rp. 9.000
 13. Pia Kacang Ijo	Rp. 6.000
 14. Pastel		Rp. 5.000
+15. Surandil Kelapa	Rp. 3.000
+16. Talam Ubi Gulung	Rp. 4.000
+17. Talam Ubi		Rp. 4.000
+18. Tahu Sosis		Rp. 5.000
+19. Soes Basah		Rp. 3.000
+20. Risol Beef		Rp. 5.000
