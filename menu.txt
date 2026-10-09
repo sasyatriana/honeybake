@@ -7,3 +7,8 @@ MENU KUE MANIS
 1. Sagu Keju		Rp. 12.000
 2. Kue Kering Coklat	Rp. 15.000
 
+MENU ROTI KERING
+1. Croissant Mentega	Rp. 13.000
+2. Danish Keju		Rp. 8.000
+
+
