@@ -28,4 +28,8 @@ MENU KUE BASAH
 2. Cente Manis		Rp. 3.000
 3. Dadar Gulung		Rp. 3.000
 4. Dadar Gulung Vla	Rp. 3.000
-
+5. Kue Ku		Rp. 3.000
+6. Ketan Serundeng	Rp. 3.000
+7. Klepon Ubi		Rp. 3.000
+8. Kue Lumpur		Rp. 4.000
+9. Putri Noong		Rp. 3.000
