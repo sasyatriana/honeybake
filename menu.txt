@@ -23,3 +23,9 @@ MENU ROTI KERING
 7. Donat Gula		Rp. 11.000
 8. Donat Coklat		Rp. 10.500
 
+MENU KUE BASAH
+1. Bacang Anyelir	Rp. 5.000
+2. Cente Manis		Rp. 3.000
+3. Dadar Gulung		Rp. 3.000
+4. Dadar Gulung Vla	Rp. 3.000
+
